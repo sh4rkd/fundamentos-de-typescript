@@ -8,8 +8,8 @@
     console.log("customerAge " + customeAge);
 
     let productInStock: number;
-    console.log("productInStock " + productInStock);
-    productInStock > 10 ? console.log("productInStock " + productInStock) : console.log("productInStock " + productInStock);
+    //console.log("productInStock " + productInStock);
+    //productInStock > 10 ? console.log("productInStock " + productInStock) : console.log("productInStock " + productInStock);
 
     let discount = parseInt("100");
     console.log("discount " + discount);
